@@ -30,6 +30,11 @@ void bubbleSort(int arr[], int n)
     }
 }
 ```
+## Make a task list
+- [x] Add headers
+- [x] Add image
+- [x] Add code
+- [x] Add task list 
 
 
 
@@ -40,4 +45,5 @@ void bubbleSort(int arr[], int n)
 
 * Add headers
 * Add image
-* Add code 
+* Add code
+* Add task list 
