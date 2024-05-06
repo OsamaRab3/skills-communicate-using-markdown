@@ -38,12 +38,3 @@ void bubbleSort(int arr[], int n)
 
 
 
-
-
-
-
-
-* Add headers
-* Add image
-* Add code
-* Add task list 
